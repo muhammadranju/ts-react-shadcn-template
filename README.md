@@ -20,7 +20,7 @@ A minimal React + TypeScript + Vite starter template, enhanced with ESLint integ
 Ensure the following are installed:
 
 - Node.js (v16+ recommended)
-- A JavaScript package manager (`npm`, `pnpm`, or `yarn`)
+- A JavaScript package manager (`npm`, `pnpm`, `yarn` or `bun`)
 
 ---
 
@@ -31,14 +31,14 @@ git clone https://github.com/muhammadranju/ts-react-shadcn-template.git
 cd ts-react-shadcn-template
 # Install dependencies:
 npm install
-# or yarn install / pnpm install
+# or yarn install / pnpm install / bun install
 ```
 
 ### Run Development Server
 
 ```bash
 npm run dev
-# or yarn dev / pnpm dev
+# or yarn dev / pnpm dev / bun dev
 ```
 
 You’ll have a development server with hot reload and ESLint support ready to go.
